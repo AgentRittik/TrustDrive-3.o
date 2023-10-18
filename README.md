@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# TrustDrive-3.o
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+A Blockchain-based e-vault system to store legal records 
 
 Try running some of the following tasks:
 
